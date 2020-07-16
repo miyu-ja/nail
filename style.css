@@ -21,8 +21,8 @@ img {
 	margin: 0 auto;
 	padding: 0 4%;
 }
-ul.main-nav {
-	padding: 0px 0px;
+ul {
+	padding-inline-start: 0px;
 }
 
 /* 大きな背景画像 */
