@@ -21,6 +21,9 @@ img {
 	margin: 0 auto;
 	padding: 0 4%;
 }
+ul {
+	padding: 0px 0px;
+}
 
 /* 大きな背景画像 */
 .big-bg {
